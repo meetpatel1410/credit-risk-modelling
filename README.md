@@ -341,5 +341,3 @@ Potential future enhancements include:
 Meet Patel
 
 Master of Information Technology — RMIT University
-
-Experience in banking risk analytics, credit policy modelling, and retail/SME lending risk assessment.
